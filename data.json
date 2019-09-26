@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "hello_world.tex",
+        "bob": "sad man",
+        "title": "hello world"
+    },
+    {
+        "component_name": "hello_world.tex",
+        "bob": "sad man 2",
+        "title": "hello world2"
+    },
+    {
+        "component_name": "hello_world_copy.tex",
+        "bob": "dsagdksgjh man",
+        "title": "loop 1",
+        "looping_stuff": [
+            {
+                "component_name": "hello_world_copy.tex",
+                "bob": "dsagdksgjh man 2",
+                "title": "loop 2",
+                "looping_stuff": [
+                    {
+                        "component_name": "hello_world.tex",
+                        "bob": "sad man 3",
+                        "title": "hello world3"
+                    }
+                ]
+            },
+            {
+                "component_name": "hello_world.tex",
+                "bob": "sad man 4",
+                "title": "hello world4"
+            },
+            {
+                "component_name": "hello_world.tex",
+                "bob": "sad man5",
+                "title": "hello world5"
+            }
+        ]
+    }
+]
